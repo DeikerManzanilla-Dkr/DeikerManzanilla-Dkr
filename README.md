@@ -3,7 +3,6 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO_DE_GITHUB&label=Visitas al perfil&color=blue&style=flat" alt="Visitas" />
   <img src="https://img.shields.io/github/followers/TU_USUARIO_DE_GITHUB?label=Seguidores&style=social" alt="Seguidores" />
 </div>
 
