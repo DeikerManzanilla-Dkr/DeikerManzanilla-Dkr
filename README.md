@@ -53,14 +53,6 @@ Aquí te presento algunas de las plataformas y soluciones en las que he estado t
   
 </div>
 
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=(https://github.com/DeikerManzanilla-Dkr)&layout=compact&theme=tokyonight&hide_border=true" alt=" />
-</div>
-
-<br>
-
 ## 📫 Contáctame
 
 <div align="center">
