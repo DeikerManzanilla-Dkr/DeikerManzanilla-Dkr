@@ -14,8 +14,8 @@
 - 🚀 Actualmente enfocado en desarrollar proyectos tecnológicos de alto impacto.
 - 💡 **Mi misión:** Impulsar el desarrollo tecnológico y **vamos para mejorar la economía del país**.
 - 🤝 Colaborando activamente en proyectos de infraestructura y digitalización.
-- 🎓 Siempre en constante aprendizaje para traer las mejores herramientas al desarrollo nacional.
-- ⚡ **Dato curioso:** [Agrega aquí un dato curioso tuyo, ej: Me encanta el café mientras programo]
+- 🎓 Siempre en constante aprendizaje para traer las mejores herramientas al desarrollo nacional .
+- ⚡ **Dato curioso:** Me encanta el café mientras programo
 
 <br>
 
