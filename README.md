@@ -1,11 +1,5 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=¡Hola,%20soy%20%20Deiker!&fontSize=50&animation=fadeIn" width="100%" />
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/github/followers/TU_USUARIO_DE_GITHUB?label=Seguidores&style=social" alt="Seguidores" />
-</div>
-
 <br>
 
 ## 👨‍💻 Sobre Mí
