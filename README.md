@@ -40,7 +40,7 @@ Aquí te presento algunas de las plataformas y soluciones en las que he estado t
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
 
   ### Backend & Bases de Datos
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-777BB4?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 
   ### CMS & Otros
