@@ -2,12 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=¡Hola,%20soy%20%20Deiker!&fontSize=50&animation=fadeIn" width="100%" />
 </div>
 
-<h2 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Desarrollador+de+Software;Creando+soluciones+digitales;Trabajando+para+mejorar+la+economía+del+país" alt="Typing SVG" />
-  </a>
-</h2>
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=TU_USUARIO_DE_GITHUB&label=Visitas al perfil&color=blue&style=flat" alt="Visitas" />
   <img src="https://img.shields.io/github/followers/TU_USUARIO_DE_GITHUB?label=Seguidores&style=social" alt="Seguidores" />
