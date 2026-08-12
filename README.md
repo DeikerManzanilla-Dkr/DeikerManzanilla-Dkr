@@ -8,7 +8,7 @@
 - 💡 **Mi misión:** Impulsar el desarrollo tecnológico y **vamos para mejorar la economía del país**.
 - 🤝 Colaborando activamente en proyectos de infraestructura y digitalización.
 - 🎓 Siempre en constante aprendizaje para traer las mejores herramientas al desarrollo nacional .
-- ⚡ **Dato curioso:** Me encanta el café mientras programo☕.
+-  **Dato curioso:** Me encanta el café mientras programo☕.
 
 <br>
 
@@ -40,9 +40,7 @@ Aquí te presento algunas de las plataformas y soluciones en las que he estado t
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
 
   ### Backend & Bases de Datos
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 
   ### CMS & Otros
