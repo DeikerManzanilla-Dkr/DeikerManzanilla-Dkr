@@ -48,7 +48,7 @@ Aquí te presento algunas de las plataformas y soluciones en las que he estado t
   ### CMS & Otros
   <img src="https://img.shields.io/badge/WordPress-117AC9?style=for-the-badge&logo=WordPress&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Supabase-FFCA28?style=for-the-badge&logo=firebase&logoColor=green" />
+  <img src="https://img.shields.io/badge/Supabase-FFCA28?style=for-the-badge&logo=supabase&logoColor=green" />
   
   
 </div>
