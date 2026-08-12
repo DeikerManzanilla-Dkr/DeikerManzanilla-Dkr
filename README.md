@@ -60,13 +60,6 @@ Aquí te presento algunas de las plataformas y soluciones en las que he estado t
 
 <br>
 
-## 📈 Estadísticas de GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_DE_GITHUB&theme=tokyonight&hide_border=true" alt="Racha" width="48%" />
-</div>
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_DE_GITHUB&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes Top" />
 </div>
@@ -76,10 +69,10 @@ Aquí te presento algunas de las plataformas y soluciones en las que he estado t
 ## 📫 Contáctame
 
 <div align="center">
-  <a href="https://wa.me/TUNUMERODETELEFONO" target="_blank">
+  <a href="https://wa.me/+5804247708542" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
-  <a href="mailto:tucorreo@gmail.com" target="_blank">
+  <a href="deikermadridmanz" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://linkedin.com/in/TUPERFIL" target="_blank">
