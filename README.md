@@ -25,9 +25,9 @@ Aquí te presento algunas de las plataformas y soluciones en las que he estado t
 
 | Proyecto | Descripción | Enlace |
 |----------|-------------|--------|
-| **Patria Productiva Bolívar Digital** | Plataforma para el desarrollo y siembra del país. | [Visitar Web](https://www.patriaproductivabolivardigitalsiembrapais.com/) |
-| **Tu Cuaderno Digital** | Herramienta de gestión y digitalización educativa/personal. | [Visitar Web](http://tucuadernodigital.com/) |
-| **Latin Barber** | Aplicación moderna para gestión y visibilidad de barberías. | [Visitar Web](https://latinbarber777.vercel.app/) |
+| **Patria Productiva Bolívar Digital** | Plataforma para el desarrollo Economico y siembra estadistica del país. | [Visitar Web](https://www.patriaproductivabolivardigitalsiembrapais.com/) |
+| **Tu Cuaderno Digital** | Herramienta de gestión convierte su negocion en un POS inteligente y remplaza el cuaderno. | [Visitar Web](http://tucuadernodigital.com/) |
+| **Latin Barber** | Aplicación moderna para gestión de citas y visibilidad de barberías. | [Visitar Web](https://latinbarber777.vercel.app/) |
 
 ### 🛠️ Proyectos en Apoyo
 - 🔒 **Flowgate-Airlock**
